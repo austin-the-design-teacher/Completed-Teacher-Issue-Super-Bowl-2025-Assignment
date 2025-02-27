@@ -1,0 +1,37 @@
+body {
+  background-color: #004C54; /* Midnight Green */
+  color: #FFFFFF; /* White for text readability */
+}
+
+header, footer {
+  background-color: #000000; /* Black */
+}
+
+button {
+  background-color: #A5ACAF; /* Silver (Jersey) */
+  color: #004C54; /* Midnight Green */
+}
+
+a {
+  color: #ACC0C6; /* Silver (Helmet) */
+}
+
+nav {
+  background-color: #565A5C; /* Charcoal */
+}
+
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+hr {
+  border: 1px solid #A5ACAF; /* Silver (Jersey) */
+}
+
+a:hover {
+  color: #A5ACAF; /* Silver (Jersey) */
+}
+
+button:hover {
+  background-color: #565A5C; /* Charcoal */
+}
